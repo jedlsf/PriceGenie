@@ -1,6 +1,6 @@
 {
   "name": "@thezelijah/price-genie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple pricing tool that helps you calculate the right rate based on your costs, expenses, and desired profit—perfect for entrepreneurs, vendors, and small businesses.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
