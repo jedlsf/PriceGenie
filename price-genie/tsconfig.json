@@ -10,5 +10,12 @@
     "skipLibCheck": true,
     "moduleResolution": "node"
   },
-  "include": ["src"]
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "demo",
+    "node_modules",
+    "dist"
+  ]
 }
