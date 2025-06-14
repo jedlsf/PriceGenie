@@ -26,6 +26,9 @@
 
 ---
 
+##  [Full API Docs](https://www.thezelijah.word/price-genie/docs)
+---
+
 ## 📦 Installation
 
 ```bash

@@ -43,5 +43,8 @@
   "bugs": {
     "url": "https://github.com/jedlsf/PriceGenie/issues"
   },
-  "homepage": "https://github.com/jedsf/PriceGenie#readme"
+  "homepage": "https://github.com/jedsf/PriceGenie#readme",
+  "devDependencies": {
+    "typedoc": "^0.28.5"
+  }
 }
