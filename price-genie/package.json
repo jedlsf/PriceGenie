@@ -1,6 +1,6 @@
 {
   "name": "@thezelijah/price-genie",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple pricing tool that helps you calculate the right rate based on your costs, expenses, and desired profit—perfect for entrepreneurs, vendors, and small businesses.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jedsf/price-genie.git"
+    "url": "git+https://github.com/jedsf/PriceGenie.git"
   },
   "keywords": [
     "pricing",
@@ -41,7 +41,7 @@
   "author": "Zelijah",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jedsf/price-genie/issues"
+    "url": "https://github.com/jedlsf/PriceGenie/issues"
   },
-  "homepage": "https://github.com/jedsf/price-genie#readme"
+  "homepage": "https://github.com/jedsf/PriceGenie#readme"
 }
