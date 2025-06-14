@@ -6,6 +6,14 @@
 
 ---
 
+### 🌐 Live Demo
+
+[![Price Genie Thumbnail](https://www.thezelijah.world/_next/static/media/WA_Tools_Business_PriceGenie.11f65fde.webp)](https://www.thezelijah.world/tools/business-price-genie)
+
+> Click the image to try the interactive pricing calculator.
+
+---
+
 ## ✨ Features
 
 - **Calculate ideal prices** based on costing breakdown  
