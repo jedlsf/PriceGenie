@@ -1,0 +1,30 @@
+# Node dependencies
+node_modules/
+dist/
+
+# Build artifacts
+*.log
+*.tsbuildinfo
+.nyc_output/
+coverage/
+
+# Editor and workspace settings
+.vscode/
+.idea/
+*.code-workspace
+WS_PriceGenie.code-workspace
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# dotenv and env configs
+.env
+.env.local
+.env.*.local
+
+# TypeDoc cache
+typedoc/
+
+# Optional: ignore demo folder from publishing
+demo/
